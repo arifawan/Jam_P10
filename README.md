@@ -5,7 +5,7 @@ Berikut koneksi pin P10 ke Arduino Uno, saya mencobanya ke Arduino Mega bisa jug
 <img src="JD_P10/p10 to UNO.jpg" width="500" height="300"> <br><br>
 Pinout Arduino Mega: <br>
 <img src="JD_P10/pinout Mega.png" width="700" height="500"> <br><br>
-RTC yang saya gunakan DS3231SN yang support pembacaan temperatur dan lebih presisi dibanding versi sebelumnya : <br>
+RTC yang saya gunakan DS3231SN yang support pembacaan temperatur dan lebih presisi dibanding versi sebelumnya, untuk koneksi yaitu SDA, SCL, VCC (3.3V/5V), GND : <br>
 <img src="JD_P10/rtc.jpg" width="300" height="300"> <br><br>
 
 Berikut Hasil pembuatan Jam P10 yang saya buat: <br>
